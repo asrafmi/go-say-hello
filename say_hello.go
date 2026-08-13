@@ -1,5 +1,5 @@
 package gosayhello
 
-func SayHello() string {
-	return "Hello, World Revised!"
+func SayHello(name string) string {
+	return "Hello, Welcome " + name + "!"
 }

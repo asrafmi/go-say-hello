@@ -1,3 +1,3 @@
-module github.com/asrafmi/go-say-hello
+module github.com/asrafmi/go-say-hello/v2
 
 go 1.25.5
